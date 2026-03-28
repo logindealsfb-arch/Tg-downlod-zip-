@@ -1,0 +1,11 @@
+# Telegram Bot Configuration
+bot_token: "8017395524:AAH8gY_CKKZU7hGJJOlX7WztOmQ7Q-J1V5U"
+target_channel: "-1003107433425"  # or "@storebot1x"
+archive_password: "cosplaytele"
+
+# Optional: Restrict access to specific user IDs (comma-separated list)
+allowed_users: []  # e.g., [123456789, 987654321]
+
+# Directories (will be created automatically)
+download_dir: "downloads"
+extract_dir: "extracted"
